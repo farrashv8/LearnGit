@@ -1,1 +1,3 @@
 - add minor improvement from 'add-minor-improvement' branch
+- This is a line to practice merging conflict that usually happens with git
+- there changes coming from dev-azhary branch
