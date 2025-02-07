@@ -1,3 +1,3 @@
 - add minor improvement from 'add-minor-improvement' branch
-- This is a line to practice merging conflict that usually happens with git
+- add some changes with readme.md to practice meging conflict with git
 - there changes coming from dev-azhary branch
