@@ -26,7 +26,7 @@ for letter in cipher_text:
     text += character[index]
 print(f"your text is : {text}")
 
-#Encrypt & auto Decrypt
+#Encrypt & Decrypt
 #def your_text():
     #text = input("Enter a message: ")
     #cipher_text = ""
